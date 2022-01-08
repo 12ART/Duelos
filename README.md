@@ -1,3 +1,3 @@
-# Invasion-Pirata-etapa6
+Duelos
 
-agregar sonidos y puntuación
+#agregar movimiento a los vaqueros
